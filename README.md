@@ -14,10 +14,12 @@ SCRIPT
 - max generated image form the same artboard (will get a random quantity based on that)
 - total variations needed 
 - some colors are more difficult to get that others (eg. : gold vs red)
+- generate logs in a CSV file
 
 NOTES
-Some features aren't available on this version: 
+Some features aren't included in this version: 
 - rename colors
 - random name for files
 - effect:dotted
 - don't consider white as a color
+- convert CSV to Json
